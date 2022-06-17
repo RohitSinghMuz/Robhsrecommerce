@@ -1,0 +1,747 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.col {
+  box-sizing: content-box;
+}
+.bestseller {
+  text-align: center;
+  color: black;
+  font-size: 25px;
+}
+
+.eftsidebar {
+  height: auto;
+}
+.rightsidebar {
+  height: auto;
+}
+hr.new1 {
+  border: 2px solid;
+}
+
+hr.new2 {
+  border: 2px solid red;
+  text-align: center;
+  width: 100px;
+  align-items: center;
+  margin-left: 46%;
+}
+
+.icon-bar {
+  width: 80px;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: black;
+  font-size: 36px;
+}
+
+.fromtheshop {
+  text-align: center;
+  font-size: 35px;
+  color: black;
+}
+hr.new3 {
+  border: 2px solid red;
+  text-align: center;
+  width: 100px;
+  align-items: center;
+  margin-left: 46%;
+}
+.btnk {
+  align-items: center;
+  width: 150px;
+  color: black;
+  background-color: white;
+  margin-left: 110px;
+
+  padding: 10px;
+}
+.fourp {
+  text-align: center;
+  padding: 10px;
+  background-color: gray;
+  padding: 30px;
+}
+
+.lduedge h2 {
+  font-size: 55px;
+}
+hr.new4 {
+  border: 2px solid red;
+  text-align: center;
+  width: 150px;
+  align-items: center;
+  margin-left: 45%;
+  margin-top: 30px;
+}
+
+.card {
+  overflow: hidden;
+}
+
+.card img {
+  transition: all 1s linear;
+}
+
+.indexproduct img:hover {
+  transform: scale(1.06);
+  transition-duration: 0.7s;
+  transition-delay: 0s;
+  transition-timing-function: ease;
+  transition-property: opacity;
+}
+
+.img-fluid {
+  padding-top: 20px;
+}
+
+.card button {
+  transition: all 1s linear;
+}
+
+.card button:hover {
+  transform: scale(1.1);
+}
+.card h6 {
+  transition: all 1s linear;
+}
+
+.card h6:hover {
+  transform: scale(1.2);
+}
+
+.fivep {
+  text-align: center;
+  padding-top: 70px;
+}
+hr.new5 {
+  border: 2px solid red;
+  text-align: center;
+  width: 150px;
+  align-items: center;
+  margin-left: 45%;
+  margin-top: 30px;
+}
+
+.sixp {
+  text-align: center;
+  padding-top: 70px;
+}
+hr.new6 {
+  border: 2px solid red;
+  text-align: center;
+  width: 100px;
+  align-items: center;
+  margin-left: 45%;
+  margin-top: 30px;
+}
+
+.card {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card .btnk {
+  position: absolute;
+  top: 90%;
+  left: 1%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  /* border-radius: 5px; */
+  text-align: center;
+}
+
+.card .btnk:hover {
+  background-color: rgb(224, 203, 203);
+}
+
+.perab {
+  position: absolute;
+  top: 77%;
+  left: 8%;
+  color: white;
+  font-size: 35px;
+  border: none;
+  text-align: left;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: italic;
+}
+.fname {
+  text-align: center;
+}
+.carousel-control-next {
+  color: red;
+}
+
+.mainhjk {
+  width: 800px;
+  height: 200px;
+  margin-bottom: 500px;
+  box-sizing: border-box;
+}
+
+.carouselExampleControlsNoTouching img {
+  width: 200px;
+  height: 140px;
+}
+
+.fullwidthk {
+  width: 200px;
+}
+
+.btnkk {
+  margin-left: 47%;
+  padding: 12px 24px;
+  background-color: rgb(236, 28, 63);
+  color: black;
+  font-size: 16px;
+}
+
+.carda.btnkK {
+  position: absolute;
+  top: 30%;
+  left: 1%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+
+  border: none;
+  cursor: pointer;
+  /* border-radius: 5px; */
+  text-align: center;
+}
+.journey {
+  margin-left: 25%;
+  padding: 10px;
+}
+
+.fullwidthimgk {
+  position: relative;
+  width: 100%;
+  /* max-width: 400px;
+       */
+}
+.fullwidthimgk.carda img {
+  width: 100%;
+  height: auto;
+}
+
+.fullwidthimgk.btnkk {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.carda.btnkK:hover {
+  background-color: black;
+}
+
+.fullwidthimgk h1 {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+
+  color: black;
+  font-size: 26px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* foooter css start */
+
+.footerimageh img {
+  width: 150px;
+  height: 60px;
+}
+
+.firstfooter ul li {
+  text-align: left;
+
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.firstheed {
+  text-align: center;
+}
+.payments img {
+  width: auto;
+  height: 30px;
+}
+.fa {
+  padding: 10px 0px;
+  font-size: 30px;
+  width: 30px;
+  text-align: left;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  color: white;
+}
+.fa-instagram {
+  color: white;
+}
+.fa-youtube {
+  color: white;
+}
+.fa-pinterest {
+  color: white;
+}
+
+/* Secondpagestart */
+.sidebarsecond {
+  height: 2000px;
+}
+
+hr.newsecondapegehr1 {
+  border-top: 1px solid rgb(92, 83, 83);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.sortby {
+  padding-top: 40px;
+  padding-left: 50px;
+  text-align: left;
+  items-align: bottom;
+}
+
+/* GEORGETTE start  */
+
+.GEORGETTE row {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+#carouselExampleIndicators {
+  margin-top: 120px;
+}
+
+.navbar {
+  margin-top: 30px;
+}
+
+.fa fa-star {
+  top: 1px;
+}
+
+.Alinekurta img {
+  margin-top: 150px;
+}
+.festivalcollection img {
+  margin-top: 150px;
+}
+.carouselExample {
+  padding: 0px;
+  margin: 0px;
+}
+
+.Alinekurta {
+  margin-bottom: 50px;
+}
+.carousel-inner {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.Alinekurta div a {
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+}
+.shop div ul li {
+  text-decoration: none;
+  list-style-type: none;
+  color: white;
+}
+.homepagekk {
+  padding-top: 150px;
+  display: inline-block;
+  padding-left: 60px;
+}
+.homepagekk a {
+  text-decoration: none;
+  color: black;
+}
+
+.homepagekk a:hover {
+  color: red;
+}
+
+.switchimgee {
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+
+.switchkk {
+  margin-left: 20%;
+}
+
+.switchkk {
+  opacity: 0.6;
+}
+
+.diamondk {
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+#ide3 {
+  font-size: 30px;
+  color: rgb(173, 63, 81);
+}
+
+.sizek {
+  font-size: 20px;
+}
+
+.sizekks a {
+  text-decoration: none;
+}
+.size1 {
+  margin: 4%;
+  background-color: gainsboro;
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+.size2 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+.size3 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+.size4 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+
+.size5 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+
+.size6 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+.size7 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+.size8 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+.size9 {
+  margin: 4%;
+  background-color: rgb(63, 60, 60);
+  width: 50px;
+  padding: 2% 2%;
+  border-radius: 5%;
+  margin-bottom: 10%;
+}
+
+.viewchartsize {
+  padding-top: 15%;
+}
+
+#accurate {
+  padding-top: 10%;
+}
+#buttoncarta {
+  padding: 10px 60px;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+}
+#buttoncarta:hover {
+  color: red;
+  background-color: pink;
+}
+
+#Detailsk {
+  padding: 30px;
+}
+
+.Keyk {
+  padding: 15%;
+}
+.constrating {
+  padding-left: 6%;
+}
+#Peopleks {
+  padding-top: 200px;
+  padding-bottom: 10px;
+}
+.new2k {
+  border: 2px solid red;
+  text-align: center;
+  width: 100px;
+  align-items: center;
+  margin-left: 36%;
+}
+
+carouselkksde {
+  width: 300px;
+  height: auto;
+}
+
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.logo-carousel {
+  overflow: inherit;
+  border-top: 1px solid #353535;
+  border-bottom: 1px solid #353535;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
+.slick-track::before,
+.slick-track::after {
+  display: table;
+  content: "";
+}
+
+.slick-track::after {
+  clear: both;
+}
+
+.slick-track {
+  padding: 1rem 0;
+}
+
+.slick-loading .slick-track {
+  visibility: hidden;
+}
+
+.slick-slide.slick-loading img {
+  display: none;
+}
+
+.slick-slide.dragging img {
+  pointer-events: none;
+}
+
+.slick-loading .slick-slide {
+  visibility: hidden;
+}
+
+.slick-arrow {
+  position: absolute;
+  top: 50%;
+  background: url(https://raw.githubusercontent.com/solodev/infinite-logo-carousel/master/images/arrow.svg?sanitize=true)
+    center no-repeat;
+  color: #fff;
+  filter: invert(77%) sepia(32%) saturate(1%) hue-rotate(344deg)
+    brightness(105%) contrast(103%);
+  border: none;
+  width: 2rem;
+  height: 1.5rem;
+  text-indent: -10000px;
+  margin-top: -16px;
+  z-index: 99;
+}
+
+.slick-arrow.slick-next {
+  right: -40px;
+  transform: rotate(180deg);
+}
+
+.slick-arrow.slick-prev {
+  left: -40px;
+}
+
+@media (max-width: 768px) {
+  .slick-arrow {
+    width: 1rem;
+    height: 1rem;
+  }
+}
+
+.logo-carousel {
+  margin-top: 32px;
+}
+
+.singlekd {
+  margin: 40px 0px;
+}
+.size1 {
+  width: auto;
+  margin: 10px;
+
+  padding: 10px 15px;
+}
+
+#ALSOLIKE {
+  padding: 10px 0px 30px 0px;
+}
+
+.switchkkhappy {
+  padding-left: 15px;
+}
+
+/* #hoverimagek1 img:hover {
+} */
+
+.containk img {
+  height: 330px;
+  width: 100%;
+}
+
+.containk {
+  position: relative;
+  width: 100%;
+}
+
+.containk .btnsdf {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: pink;
+  color: white;
+  padding: 14px 20px;
+  font-size: 14px;
+
+  border: none;
+  cursor: pointer;
+
+  text-align: center;
+}
+
+.containk .btnsdf:hover {
+  background-color: black;
+}
+
+.containk .bemoreofyouk {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+
+  color: black;
+  padding: 20px 32px;
+
+  border: none;
+  cursor: pointer;
+
+  text-align: center;
+}
+
+/* 
+carousel slide  start */
+
+.owl-carousel img {
+  height: 280px;
+}
+.icon-barkhj {
+  display: flex;
+  padding-left: 5px;
+}
